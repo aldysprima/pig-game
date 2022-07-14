@@ -2,6 +2,8 @@
 
 ## This Game require 2 players to Play!
 
+Created using **HTML,CSS, Vanilla Javascript**
+
 As a player, in each round, you can select to roll 🎲 or hold the current round score. if a player choose to roll the 🎲 and the result !== 1, the value of the 🎲 will be added to the current score, and the player can continue either to roll the 🎲 again or hold the current score.
 
 if the player choose to roll the 🎲 again and the result is 1, the current score **will be reset to zero**, and will be switched to the second player.😣
